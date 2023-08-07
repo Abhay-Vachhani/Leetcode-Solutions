@@ -1,0 +1,3 @@
+- Problem Name: 14. Longest Common Prefix
+- Problem URL: https://leetcode.com/problems/longest-common-prefix/
+- Difficulty: Easy
