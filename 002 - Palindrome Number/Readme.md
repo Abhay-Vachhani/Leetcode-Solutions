@@ -1,0 +1,3 @@
+- Problem Name: 9. Palindrome Number
+- Problem URL: https://leetcode.com/problems/palindrome-number/
+- Difficulty: Easy
