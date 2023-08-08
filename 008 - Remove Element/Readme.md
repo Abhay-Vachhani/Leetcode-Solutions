@@ -1,0 +1,3 @@
+- Problem Name: 27. Remove Element
+- Problem URL: https://leetcode.com/problems/remove-element/
+- Difficulty: Easy
