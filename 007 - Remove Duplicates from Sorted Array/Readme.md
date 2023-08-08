@@ -1,0 +1,3 @@
+- Problem Name: 26. Remove Duplicates from Sorted Array
+- Problem URL: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+- Difficulty: Easy
