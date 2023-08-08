@@ -1,7 +1,7 @@
 import os
 from urllib import parse
 
-ignoreList = ".git .gitignore generate_readme.py readme.md".split()
+ignoreList = ".git .github .gitignore generate_readme.py readme.md".split()
 
 text = "# Leetcode Solutions\n\n"
 
