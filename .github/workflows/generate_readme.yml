@@ -19,3 +19,9 @@ jobs:
                     python-version: 3.11
             -   name: Run generate_readme.py
                 run: python generate_readme.py
+
+            -   name: Commit changes
+                run: |
+                  git add Readme.md
+                  git commit -m "Updated Readme.md"
+                  git push
