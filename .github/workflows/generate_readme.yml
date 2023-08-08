@@ -30,4 +30,4 @@ jobs:
                 run: |
                   git add Readme.md
                   git commit -m "Updated Readme.md by github-actions"
-                  git push origin HEAD:${{ github.ref }} --force
+                  git push origin master
