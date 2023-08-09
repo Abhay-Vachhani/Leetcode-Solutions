@@ -1,0 +1,3 @@
+- Problem Name: 66. Plus One
+- Problem URL: https://leetcode.com/problems/plus-one/
+- Difficulty: Easy
