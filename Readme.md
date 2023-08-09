@@ -1,5 +1,9 @@
 # Leetcode Solutions
 
+Leetcode Profile: https://leetcode.com/abhayvachhani28/
+
+---
+
 [001 - Two Sum](001%20-%20Two%20Sum)
 
 [002 - Palindrome Number](002%20-%20Palindrome%20Number)
@@ -17,4 +21,6 @@
 [008 - Remove Element](008%20-%20Remove%20Element)
 
 [009 - Find the Index of the First Occurrence in a String](009%20-%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String)
+
+[010 - Search Insert Position](010%20-%20Search%20Insert%20Position)
 
