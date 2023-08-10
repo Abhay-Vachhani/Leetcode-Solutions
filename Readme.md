@@ -26,3 +26,7 @@ Leetcode Profile: https://leetcode.com/abhayvachhani28/
 
 [011 - Length of Last Word](011%20-%20Length%20of%20Last%20Word)
 
+[012 - Plus One](012%20-%20Plus%20One)
+
+[013 - Add Binary](013%20-%20Add%20Binary)
+
